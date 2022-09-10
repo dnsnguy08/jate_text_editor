@@ -65,6 +65,7 @@ supported by the browser. The application will also function offline.
 ## Testing
 Full app tested locally and deployed live on Heroku.
 ## Repository
+- [Live App](https://j-a-text-editor.herokuapp.com/)
 - [Project Repo](https://github.com/dnsnguy08/jate_text_editor)
 ## Questions
 For any questions, please reach out to:
