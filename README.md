@@ -16,7 +16,7 @@
   - [Repository Link](#repository)
   - [Questions](#questions)
   
-  ![app_walkthrough](./Assets/00_demo.gif)
+![app_walkthrough](/Assets/00-demo.gif)
   
   ## Installation
 
